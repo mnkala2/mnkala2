@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Martin Nkala
+- 👋 Hi, I’m
 - 👀 I’m interested in hiking and gaming COD in particular
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Go related microservices
